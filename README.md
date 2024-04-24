@@ -34,6 +34,7 @@
 - [ ] **Clothing:**Bib shorts, jersey
 - [ ] **Pedals:**
 - [ ] **Garmin:**
+- [ ] **Bib:** plus jerseys.
 
 ## On the Go
 
