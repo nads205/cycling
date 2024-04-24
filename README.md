@@ -18,7 +18,13 @@
 
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs.
 - [ ] **Footwear:** Bike shoes, 
-- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products.
+- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport.
+
+Small toothpaste
+Shower gel + shampoo
+Deodorant
+Hand cream
+Lip balm
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location.
 - [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, earplugs, and a reusable water bottle.
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime.
