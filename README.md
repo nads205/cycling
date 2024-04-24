@@ -18,13 +18,7 @@
 
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs.
 - [ ] **Footwear:** Bike shoes, 
-- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport.
-
-Small toothpaste
-Shower gel + shampoo
-Deodorant
-Hand cream
-Lip balm
+- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. Lip balm. Chafing cream.
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location.
 - [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, earplugs, and a reusable water bottle.
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime.
@@ -33,10 +27,11 @@ Lip balm
 - [ ] **Headphones:**
 
 ## Cycling specifics
-- [ ] **Bike box:**
+- [ ] **Bike box:** Roll of bubble wrap. 
 - [ ] **Di2 charger:**
 - [ ] **Water bottles:** One for the bike one for travel
-- [ ] **Toolkit, patches, pumps, tubes.
+- [ ] **Toolkit:** patches, pumps, tubes, charger
+- [ ] **Clothing:**Bib shorts, jersey
 
 ## On the Go
 
@@ -58,6 +53,14 @@ Lip balm
 - [Travel Packing Tips](https://www.travelandleisure.com/travel-tips/packing-tips)
 - [Travel Health Information](https://wwwnc.cdc.gov/travel)
 - [Foreign Travel Advice](https://travel.state.gov/content/travel/en/international-travel.html)
+
+## Weather
+### Tunis
+
+<img width="600" src="https://github.com/nads205/tunisia/assets/13393938/93643e07-e14b-4dbd-a84b-0a229097fafd">
+
+### Sfax
+<img width="600" src="https://github.com/nads205/tunisia/assets/13393938/29ecd4b1-55f1-471a-8508-ce28024c1e2f">
 
 Happy travels!
 
