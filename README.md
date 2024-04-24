@@ -1,23 +1,17 @@
-# tunisia
-
-Certainly! Here's a sample README.md file for a travel checklist:
-
-```markdown
-# Travel Checklist
-
-Welcome to your ultimate travel checklist! This checklist is designed to ensure you have everything you need for a smooth and enjoyable trip.
+# Tunisia- Travel Checklist  
 
 ## Before You Go
 
-- [ ] **Passport and Visa:** Check the expiration date and ensure you have all necessary visas.
+- [ ] **Passport:** Check the expiration date and ensure you have all necessary visas.
+- [ ] ** driver licence
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
 - [ ] **Accommodation:** Confirm your reservations and any necessary booking details.
 - [ ] **Travel Insurance:** HSBC should cover it.
-- [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination.
+- [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination. **Travel credit card**
 - [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen
 - [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None
 - [ ] **Travel Adapters:** Check the plug types at your destination and pack the appropriate adapters.
-- [ ] **Phone and Electronics:** Charge your devices and consider bringing portable chargers.
+- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. 
 - [ ] **Emergency Contacts:** Write down important phone numbers and addresses, including embassy contacts.
 
 ## Packing Essentials
@@ -34,6 +28,8 @@ Welcome to your ultimate travel checklist! This checklist is designed to ensure 
 ## Cycling specifics
 - [ ] **Bike box:**
 - [ ] Di2 charger
+- [ ] water bottles
+-
 
 ## On the Go
 
@@ -57,4 +53,4 @@ Welcome to your ultimate travel checklist! This checklist is designed to ensure 
 - [Foreign Travel Advice](https://travel.state.gov/content/travel/en/international-travel.html)
 
 Happy travels!
-```
+
