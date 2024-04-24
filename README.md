@@ -3,7 +3,7 @@
 ## Before You Go
 
 - [ ] **Passport:** Check the expiration date and ensure you have all necessary visas.
-- [ ] ** driver licence
+- [ ] **Driver licence:** Useful for ID.
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
 - [ ] **Accommodation:** Confirm your reservations and any necessary booking details.
 - [ ] **Travel Insurance:** HSBC should cover it.
