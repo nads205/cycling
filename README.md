@@ -30,8 +30,10 @@
 - [ ] **Bike box:** Roll of bubble wrap. 
 - [ ] **Di2 charger:**
 - [ ] **Water bottles:** One for the bike one for travel
-- [ ] **Toolkit:** patches, pumps, tubes, charger
+- [ ] **Toolkit:** patches, pumps, tubes, charger, pedal remover, and spanner.
 - [ ] **Clothing:**Bib shorts, jersey
+- [ ] **Pedals:**
+- [ ] **Garmin:**
 
 ## On the Go
 
