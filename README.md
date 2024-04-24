@@ -1,7 +1,7 @@
 # Tunisia- Travel Checklist  
 
 ## Before You Go
-- [ ] **Speak to local:**
+- [ ] **Speak to local:** Advice on arrival + flight number etc.
 - [ ] **Passport:** Check the expiration date and ensure you have all necessary visas.
 - [ ] **Driver licence:** Useful for ID.
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
