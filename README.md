@@ -17,19 +17,20 @@
 ## Packing Essentials
 
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs.
-- [ ] **Footwear:** Bring comfortable shoes for walking and any specialized footwear for activities.
+- [ ] **Footwear:** Bike shoes, 
 - [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products.
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location.
 - [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, earplugs, and a reusable water bottle.
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime.
 - [ ] **Snacks:** Pack some snacks for the journey, especially if you have dietary restrictions.
 - [ ] **Travel Guides/Maps:** Bring guidebooks or download maps and travel apps for your destination.
+- [ ] **Headphones:**
 
 ## Cycling specifics
 - [ ] **Bike box:**
-- [ ] Di2 charger
-- [ ] water bottles
--
+- [ ] **Di2 charger:**
+- [ ] **Water bottles:** One for the bike one for travel
+- [ ] **Toolkit, patches, pumps, tubes.
 
 ## On the Go
 
