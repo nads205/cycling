@@ -6,7 +6,7 @@
 - [ ] **Driver licence:** Useful for ID.
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
 - [ ] **Accommodation:** Confirm your reservations and any necessary booking details.
-- [ ] **Travel Insurance:** HSBC should cover it.
+- [ ] **Travel Insurance:** Check policy covers bike theft and theft of luggage.
 - [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination. **Travel credit card**
 - [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen
 - [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None
