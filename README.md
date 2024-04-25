@@ -74,5 +74,17 @@ Sfax
 Gabes 
 DJerba Island (swimming etc). Cycle around the Island.
 
+## Itenery
+
+| Day | Time | Activity |
+| --- | ---- | -------- |
+| 25/04/2024 | 10:00 AM | Visit the museum |
+| Tuesday | 9:00 AM | Hiking in the mountains |
+| Wednesday | 11:00 AM | Relax at the beach |
+| Thursday | 10:30 AM | Explore the city |
+| Friday | 12:00 PM | Return home |
+
 Happy travels!
+
+
 
