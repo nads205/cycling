@@ -18,9 +18,9 @@
 
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs.
 - [ ] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider dispoable slippers like the ones you get in hotels?
-- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. Lip balm. Chafing cream. Toothpick.
+- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. EarLip balm. Chafing cream. Toothpick.
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location.
-- [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, earplugs, and a reusable water bottle.
+- [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle.
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime.
 - [ ] **Snacks:** Pack some snacks for the journey, especially if you have dietary restrictions.
 - [ ] **Travel Guides/Maps:** Bring guidebooks or download maps and travel apps for your destination.
