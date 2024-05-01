@@ -58,6 +58,7 @@
 - [Foreign Travel Advice](https://travel.state.gov/content/travel/en/international-travel.html)
 
 ## Weather
+Remember to check wind direction and intensity
 ### Tunis
 
 <img width="600" src="https://github.com/nads205/tunisia/assets/13393938/93643e07-e14b-4dbd-a84b-0a229097fafd">
@@ -78,11 +79,12 @@ DJerba Island (swimming etc). Cycle around the Island.
 
 | Day | Time | Activity |
 | --- | ---- | -------- |
-| 25/04/2024 | 10:00 AM | Visit the museum |
-| Tuesday | 9:00 AM | Hiking in the mountains |
-| Wednesday | 11:00 AM | Relax at the beach |
-| Thursday | 10:30 AM | Explore the city |
-| Friday | 12:00 PM | Return home |
+| 25/04/2024 | 22:30  | Arrive Tunis, stay in Nomads Hostel | Nomad's Hostel
+| 26/04/2024 | 9:00 AM | Assemble bike and go for inaugaral bike ride | Nomad's Hostel or AirBnB
+| 27/04/2024 | 10:00 AM | Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple. | Youth Club De Zargouan or Dar Zaghouan
+| 28/04/2024 | 11:00 AM | Depart Zaghouan for Testour via Thuburbo Majus for photos | Testour | Hotel Ibn Zeidoun
+| 29/04/2024 | 10:30 AM | Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis. | Nomad's Hostel.
+| 30/04/2024 | 09:00 AM | Pack the bike up and enjoy the day in Tunis, depart for airport.
 
 Happy travels!
 
