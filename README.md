@@ -80,7 +80,7 @@ DJerba Island (swimming etc). Cycle around the Island.
 | Day | Time | Activity | Where to stay |
 | --- | ---- | -------- | ------------- |
 | 25/04/2024 | 22:30  | Arrive Tunis, stay in Nomads Hostel | Nomad's Hostel
-| 26/04/2024 | 9:00 AM | Assemble bike and go for inaugaral bike ride | Nomad's Hostel or AirBnB
+| 26/04/2024 | 9:00 AM | Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb | Nomad's Hostel or AirBnB
 | 27/04/2024 | 10:00 AM | Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple. | Youth Club De Zargouan or Dar Zaghouan
 | 28/04/2024 | 11:00 AM | Depart Zaghouan for Testour via Thuburbo Majus for photos | Testour | Hotel Ibn Zeidoun
 | 29/04/2024 | 10:30 AM | Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis. | Nomad's Hostel.
