@@ -67,13 +67,12 @@ Remember to check wind direction and intensity
 <img width="600" src="https://github.com/nads205/tunisia/assets/13393938/29ecd4b1-55f1-471a-8508-ce28024c1e2f">
 
 ## Routes
-* Option 1 - go north-west towards Bizerte (4/5 days) hills.
-* Option 2 - go south towards Sousse, Sfax.
-* Option 3 - Loop via Zagouan (suggested by Besbes)
-* Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
-
+### Option 1 - go north-west towards Bizerte (4/5 days) hills.
+### Option 2 - go south towards Sousse, Sfax.
+![image](https://github.com/nads205/tunisia/assets/13393938/ac64b20b-713e-4878-ada7-9d7286022a51)
+### Option 3 - Loop via Zagouan (suggested by Besbes)
 ![image](https://github.com/nads205/tunisia/assets/13393938/7f46da51-7f08-4acf-b63c-f37022b39251)
-
+### Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
 
 ## Itenery
 
