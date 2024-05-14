@@ -1,4 +1,4 @@
-# Tunisia- Travel Checklist  
+# Tunisia - Cycling Tour - Travel Checklist  
 
 ## Before You Go
 - [ ] **Speak to local:** Advice on arrival + flight number etc.
@@ -89,7 +89,13 @@ DJerba Island (swimming etc). Cycle around the Island.
 | 30/04/2024 | 09:00 AM | *Day 5* -  Pack the bike up and enjoy the day in Tunis, depart for airport.                                                                   |                                         |
 
 ## Costings
-Flights are £150 each way. Accomodation is 25-40 per night (£125 - £200. Food and sundries £100).
+
+### Flights 
+Flights from London are £150 each way. 
+
+### Accomodation
+Accomodation is 25-40 per night. Withdraw £300 from (500 dinars *2) from the Airport upon arrival. Cash is king in Tunisia. 
+Taxi should be £10-15 to and fro airport.
 
 Happy travels!
 
