@@ -79,14 +79,14 @@ DJerba Island (swimming etc). Cycle around the Island.
 
 ## Itenery
 
-| Day | Time | Activity | Where to stay |
-| --- | ---- | -------- | ------------- |
-| 25/04/2024 | 22:30  | Arrive Tunis, stay in Nomads Hostel | Nomad's Hostel
-| 26/04/2024 | 9:00 AM | Day 1 - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft) - https://www.strava.com/activities/11270943887| Nomad's Hostel or AirBnB
-| 27/04/2024 | 10:00 AM | Day 2 - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan. https://www.strava.com/activities/11277852166 | Youth Club De Zargouan or Dar Zaghouan
-| 28/04/2024 | 11:00 AM | Day 3 - Depart Zaghouan for Testour via Thuburbo Majus for photos https://www.strava.com/activities/11286442142 | Testour | Hotel Ibn Zeidoun
-| 29/04/2024 | 10:30 AM | Day 4 - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis. https://www.strava.com/activities/11291192787 | Nomad's Hostel.
-| 30/04/2024 | 09:00 AM | Pack the bike up and enjoy the day in Tunis, depart for airport.
+| Day | Time | Activity | Where to stay | Route |
+| --- | ---- | -------- | ------------- | ----- |
+| 25/04/2024 | 22:30    | Arrive Tunis, stay in Nomads Hostel                                                                                                | Nomad's Hostel                          | 
+| 26/04/2024 | 9:00 AM  | Day 1 - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                           | Nomad's Hostel or AirBnB                | [Strava](https://www.strava.com/activities/11270943887)
+| 27/04/2024 | 10:00 AM | Day 2 - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.                       | Youth Club De Zargouan or Dar Zaghouan  | [Strava](https://www.strava.com/activities/11277852166)
+| 28/04/2024 | 11:00 AM | Day 3 - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                                  | Hotel Ibn Zeidoun Testour               | [Strava](https://www.strava.com/activities/11286442142)
+| 29/04/2024 | 10:30 AM | Day 4 - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.       | Nomad's Hostel.                         | [Strava](https://www.strava.com/activities/11291192787)
+| 30/04/2024 | 09:00 AM | Pack the bike up and enjoy the day in Tunis, depart for airport.                                                                   |                                         |
 
 ## Costings
 Flights are £150 each way. Accomodation is 25-40 per night (£125 - £200. Food and sundries £100).
