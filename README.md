@@ -27,14 +27,13 @@
 - [ ] **Headphones:** noise cancelling, avoid bulky ones.
 
 ## Cycling specifics
-- [ ] **Bike box:** Roll of bubble wrap. 
+- [ ] **Bike box:** Roll of bubble wrap, zip ties and cling film.
 - [ ] **Di2 charger:**
 - [ ] **Water bottles:** One for the bike one for travel
 - [ ] **Toolkit:** patches, pumps, tubes, charger, pedal remover, and spanner.
-- [ ] **Clothing:**Bib shorts, jersey
+- [ ] **Clothing:**Bib shorts, jersey (x2)
 - [ ] **Pedals:**
 - [ ] **Garmin:**
-- [ ] **Bib:** plus jerseys.
 
 ## On the Go
 
