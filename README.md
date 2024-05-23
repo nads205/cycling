@@ -1,4 +1,4 @@
-# Bristol - Cycling Tour - Travel Checklist  
+# Bristol - Cycling Tour - Travel Checklist + Plan 
 
 ## Before You Go
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
