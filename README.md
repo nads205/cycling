@@ -54,6 +54,8 @@ Remember to check wind direction and intensity
 ### Option 1
 Draft 1 - https://www.strava.com/routes/3228492622068862034
 ### Option 2 - 
+Sustrans route - https://www.sustrans.org.uk/find-a-route-on-the-national-cycle-network/kennet-and-avon-cycle-route/
+Same route on OS Maps - https://explore.osmaps.com/route/3647733/sustrans-kennet-and-avon-canal-route-bath-to-reading?lat=51.423896&lon=-1.994627&zoom=8.7641&style=Standard&type=2d
 ### Option 3 -
 ### Option 4
 Ride 100 route (just to guage timing etc) https://www.strava.com/routes/new?route_id=2929857895126399020
