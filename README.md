@@ -54,7 +54,7 @@ Remember to check wind direction and intensity
 ### Option 1 - 
 ### Option 2 - 
 ### Option 3 -
-### Option 4 - 
+### Option 4 - Ride 100 route (just to guage timing etc) https://www.strava.com/routes/new?route_id=2929857895126399020
 
 ## Itenery
 
