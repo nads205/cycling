@@ -1,17 +1,12 @@
-# Tunisia - Cycling Tour - Travel Checklist  
+# Bristol - Cycling Tour - Travel Checklist  
 
 ## Before You Go
-- [ ] **Speak to local:** Advice on arrival + flight number etc.
-- [ ] **Passport:** Check the expiration date and ensure you have all necessary visas.
-- [ ] **Driver licence:** Useful for ID.
 - [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
 - [ ] **Accommodation:** Confirm your reservations and any necessary booking details.
 - [ ] **Travel Insurance:** Check policy covers bike theft and theft of luggage.
-- [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination. **Travel credit card**
 - [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen
 - [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None
-- [ ] **Travel Adapters:** Check the plug types at your destination and pack the appropriate adapters. Tunisia uses a 2 pin EU style travel charger.
-- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. 
+- [ ] **Phone and Electronics:** Portable chargers.
 - [ ] **Emergency Contacts:** Write down important phone numbers and addresses, including embassy contacts. Consider an emergency information sheet to take with you on the bike
 
 ## Packing Essentials
@@ -27,7 +22,6 @@
 - [ ] **Headphones:** noise cancelling, avoid bulky ones.
 
 ## Cycling specifics
-- [ ] **Bike box:** Roll of bubble wrap, zip ties and cling film.
 - [ ] **Di2 charger:**
 - [ ] **Water bottles:** One for the bike one for travel
 - [ ] **Toolkit:** patches, pumps, tubes, charger, pedal remover, and spanner.
@@ -52,46 +46,31 @@
 
 ## Additional Resources
 
-- [Travel Packing Tips](https://www.travelandleisure.com/travel-tips/packing-tips)
-- [Travel Health Information](https://wwwnc.cdc.gov/travel)
-- [Foreign Travel Advice](https://travel.state.gov/content/travel/en/international-travel.html)
-
 ## Weather
 Remember to check wind direction and intensity
-### Tunis
-
-<img width="600" src="https://github.com/nads205/tunisia/assets/13393938/93643e07-e14b-4dbd-a84b-0a229097fafd">
-
-### Sfax
-<img width="600" src="https://github.com/nads205/tunisia/assets/13393938/29ecd4b1-55f1-471a-8508-ce28024c1e2f">
+### Wind direction and forcast
 
 ## Routes
-### Option 1 - go north-west towards Bizerte (4/5 days) hills.
-### Option 2 - go south towards Sousse, Sfax.
-![image](https://github.com/nads205/tunisia/assets/13393938/ac64b20b-713e-4878-ada7-9d7286022a51)
-### Option 3 - Loop via Zagouan (suggested by Besbes)
-![image](https://github.com/nads205/tunisia/assets/13393938/7f46da51-7f08-4acf-b63c-f37022b39251)
-### Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
+### Option 1 - 
+### Option 2 - 
+### Option 3 -
+### Option 4 - 
 
 ## Itenery
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 25/04/2024 | 22:30    | Arrive Tunis, stay in Nomads Hostel                                                                                              | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/)      | 
-| 26/04/2024 | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) or AirBnB  | [Strava](https://www.strava.com/activities/11270943887)
-| 27/04/2024 | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.    | Youth Club De Zargouan or [Dar Zaghouan](https://www.instagram.com/darzaghouan_officiel/)  | [Strava](https://www.strava.com/activities/11277852166)
-| 28/04/2024 | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel Ibn Zeidoun Testour               | [Strava](https://www.strava.com/activities/11286442142)
-| 29/04/2024 | 10:30 AM | *Day 4* - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.   | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) | [Strava](https://www.strava.com/activities/11291192787)
-| 30/04/2024 | 09:00 AM | *Day 5* -  Pack the bike up and enjoy the day in Tunis, depart for airport.                                                                   |                                         |
+| Fri 31/05/2024 | 22:30    | NA            | NA    |
+| Sat 01/06/2024 | 9:00 AM  | AirBnb        |       | 
+| Sun 02/06/2024 | 10:00 AM | *Day 2*       |       | 
+
 
 ## Costings
-
-### Flights 
-Flights from London are £150 each way. 
-
 ### Accomodation
-Accomodation is 25-40 per night. Withdraw £300 from (500 dinars *2) from the Airport upon arrival. Cash is king in Tunisia. 
-Taxi should be £10-15 to and fro airport.
+£300 for the AirBnb
+Car fuel
+
+
 
 Happy travels!
 
