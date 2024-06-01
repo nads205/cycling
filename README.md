@@ -68,6 +68,12 @@ Ride 100 route (just to guage timing etc) https://www.strava.com/routes/new?rout
 | Sat 01/06/2024 | 9:00 AM  | AirBnb        |       | 
 | Sun 02/06/2024 | 10:00 AM | *Day 2*       |       | 
 
+Sites 
+
+After Burbage - Pewsey  White horse
+After Devizies - Locks
+After Bradford on Avon - Aqueducts second one looks good
+
 
 ## Costings
 ### Accomodation
