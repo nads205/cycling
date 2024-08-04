@@ -16,8 +16,9 @@ Remember to check wind direction and intensity
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 19/07/2024 | 09:00  | Cycle from Purley to Folkestone | AirBnB in Folkestone | [https://connect.garmin.com/modern/activity/16482585232](https://connect.garmin.com/modern/activity/16482585232) | 
-| 20/07/2024 | 09:00  | Folkestone to  | [BnB in SeaFord - Polruan](http://www.seafordheadguesthouse.co.uk) | [https://connect.garmin.com/modern/activity/16482585232](https://connect.garmin.com/modern/activity/16498588494) |
+| 19/07/2024 | 09:00  | Purley to Folkestone | AirBnB in Folkestone | https://connect.garmin.com/modern/activity/16482585232 | 
+| 20/07/2024 | 09:00  | Folkestone to Seaford  | [BnB in SeaFord - Polruan](http://www.seafordheadguesthouse.co.uk) | https://connect.garmin.com/modern/activity/16498588494 |
+| 21/07/2024 | 09:00  | Seaford to Purley via Arundel | Home | https://connect.garmin.com/modern/activity/16514951268 |
 
 
 ## Costings
@@ -27,10 +28,6 @@ Food = £40
 Other = £10
 Total = £180
 
-
-
-## Accomodation
-TBC
 
 Happy travels!
 
