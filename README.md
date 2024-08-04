@@ -21,7 +21,13 @@ Remember to check wind direction and intensity
 
 
 ## Costings
-TBC
+Night 1 = £40
+Night 2 = £90
+Food = £40
+Other = £10
+Total = £180
+
+
 
 ## Accomodation
 TBC
