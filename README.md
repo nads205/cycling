@@ -16,7 +16,9 @@ Remember to check wind direction and intensity
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 25/04/2024 | 22:30    | Arrive Tunis, stay in Nomads Hostel   | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/)  | 
+| 19/07/2024 | 09:00  | Cycle from Purley to Folkestone | AirBnB in Folkestone | [https://connect.garmin.com/modern/activity/16482585232](https://connect.garmin.com/modern/activity/16482585232) | 
+| 20/07/2024 | 09:00  | Folkestone to  | [BnB in SeaFord - Polruan](http://www.seafordheadguesthouse.co.uk) | [https://connect.garmin.com/modern/activity/16482585232](https://connect.garmin.com/modern/activity/16498588494) |
+
 
 ## Costings
 TBC
