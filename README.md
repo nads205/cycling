@@ -12,34 +12,43 @@ Remember to check wind direction and intensity
 
 ## Routes
 
-## Itenery
+## Itenery Part 1
 
-| Day | Time | Activity | Where to stay | Route |
+| Day | Time | Activity | Where to stay | Route | 
 | --- | ---- | -------- | ------------- | ----- |
 | 19/07/2024 | 09:00  | Purley to Folkestone | AirBnB in Folkestone | https://connect.garmin.com/modern/activity/16482585232 | 
 | 20/07/2024 | 09:00  | Folkestone to Seaford  | [BnB in SeaFord - Polruan](http://www.seafordheadguesthouse.co.uk) | https://connect.garmin.com/modern/activity/16498588494 |
 | 21/07/2024 | 09:00  | Seaford to Purley via Arundel | Home | https://connect.garmin.com/modern/activity/16514951268 |
-| 05/08/2024 | 09:00  | Purley to Portsmouth | AirBnb Portsmouth | https://connect.garmin.com/modern/course/294407722 |
-| 06/08/2024 | 09:00  | Portsmouth to | |  |
+
+## Itenery Part 2
+| Day | Time | Activity | Where to stay | Route | Notes |
+| --- | ---- | -------- | ------------- | ----- | ----- |
+| 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham |  |
+| 06/08/2024 | 09:00  | Felpham to Bournemouth | AirBnB in Bournemouth town centre | |
+| 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | | Detour via West Bay (cliffs) |
+| 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | | Stop off in Axminster and Seaton |
+| 09/08/2024 | 09:00  | Sidmouth to Hope Cove | Hotel in Hope Cove | | Dinner in Kingsbridge, stop off in Totnes |
+| 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | | Train to London |
 
 ## Route
 
-Portsmouth route 
-
-
 ## Costings
-- Night 1 = £40
+- Night 1 = £90
 - Night 2 = £90
-- Food = £40
+- Night 3 = £40
+- Night 4 = £200
+- Night 5 = £140
+- Food = £200?
 - Other = £10
-- **Total = £180**
+- **Total = £560**
 
 Kit list
+- Small amount of clothes, inc lightweight trainers
+- Cycling clothing
 - Ibuprofen
-- Tools
-- Phone
-- Charger
-- 
+- Bicycle tools
+- Phone + Charger
+- Lights
 
 ## Maps
 
