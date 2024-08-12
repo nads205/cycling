@@ -56,10 +56,6 @@ Kit list
 
 <img alt="image" src="https://github.com/user-attachments/assets/657e53f7-4c77-40ca-98a6-f4a3b8508b5b">
 
-
-![image](https://github.com/user-attachments/assets/fb6c26bf-c3a4-4e7d-abc8-cdbf7f456777)
-
-
 Happy travels!
 
 
