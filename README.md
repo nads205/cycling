@@ -21,14 +21,14 @@ Remember to check wind direction and intensity
 | 21/07/2024 | 09:00  | Seaford to Purley via Arundel | Home | https://connect.garmin.com/modern/activity/16514951268 |
 
 ## Itenery Part 2
-| Day | Time | Activity | Where to stay | Route | Notes |
+| Day | Time | Activity | Where to stay | Distance | Notes |
 | --- | ---- | -------- | ------------- | ----- | ----- |
-| 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham |  |
-| 06/08/2024 | 09:00  | Felpham to Bournemouth | AirBnB in Bournemouth town centre | |
-| 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | | Detour via West Bay (cliffs) |
-| 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | | Stop off in Axminster and Seaton |
-| 09/08/2024 | 09:00  | Sidmouth to Hope Cove | Hotel in Hope Cove | | Dinner in Kingsbridge, stop off in Totnes |
-| 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | | Train to London |
+| 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham | 55m |
+| 06/08/2024 | 09:00  | Felpham to Bournemouth | AirBnB in Bournemouth town centre | 92m |
+| 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | 65m | Detour via West Bay (cliffs) |
+| 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | 33m | Stop off in Axminster and Seaton |
+| 09/08/2024 | 09:00  | Sidmouth to Hope Cove | Hotel in Hope Cove | 75m | Dinner in Kingsbridge, stop off in Totnes |
+| 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | 26m | Train to London |
 
 ## Route
 
