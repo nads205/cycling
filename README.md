@@ -44,7 +44,7 @@ Total 350 miles with 20k ft climbing.
 - Other = £10
 - **Total = £560**
 
-Kit list
+## Kit list
 - Small amount of clothes, inc lightweight trainers
 - Cycling clothing
 - Ibuprofen
@@ -55,6 +55,14 @@ Kit list
 ## Maps
 
 <img alt="image" src="https://github.com/user-attachments/assets/657e53f7-4c77-40ca-98a6-f4a3b8508b5b">
+
+## Other routes:
+
+# NCR27
+
+1. https://www.exploredevon.info/activities/cycle/devon-coast-coast-ncn27/
+2. https://www.willcycle.com/2021/01/27/gocycle-devon-coast-to-coast/
+
 
 Happy travels!
 
