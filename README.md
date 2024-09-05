@@ -73,7 +73,7 @@ Remember to check wind direction and intensity
 ![image](https://github.com/nads205/tunisia/assets/13393938/7f46da51-7f08-4acf-b63c-f37022b39251)
 ### Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
 
-## Itenery
+## Itinerary
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
