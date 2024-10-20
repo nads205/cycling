@@ -25,7 +25,7 @@ Remember to check wind direction and intensity
 | --- | ---- | -------- | ------------- | ----- | ----- |
 | 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham | 55m/2900ft |
 | 06/08/2024 | 09:00  | Felpham to Bournemouth | AirBnB in Bournemouth town centre | 92m/2800ft |
-| 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | 65m | Detour via West Bay (cliffs) |
+| 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | 65m/4300ft | Detour via West Bay (cliffs) |
 | 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | 33m | Stop off in Axminster and Seaton |
 | 09/08/2024 | 09:00  | Sidmouth to Hope Cove | Hotel in Hope Cove | 75m | Dinner in Kingsbridge, stop off in Totnes |
 | 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | 26m/3300ft | Train to London |
