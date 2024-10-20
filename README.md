@@ -28,7 +28,7 @@ Remember to check wind direction and intensity
 | 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | 65m | Detour via West Bay (cliffs) |
 | 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | 33m | Stop off in Axminster and Seaton |
 | 09/08/2024 | 09:00  | Sidmouth to Hope Cove | Hotel in Hope Cove | 75m | Dinner in Kingsbridge, stop off in Totnes |
-| 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | 26m | Train to London |
+| 10/08/2024 | 09:00  | Hope Cove to Totnes (via Salcombe) | Home  | 26m/3300ft | Train to London |
 
 Total 350 miles with 20k ft climbing.
 
