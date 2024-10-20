@@ -23,7 +23,7 @@ Remember to check wind direction and intensity
 ## Itenery Part 2
 | Day | Time | Activity | Where to stay | Distance | Notes |
 | --- | ---- | -------- | ------------- | ----- | ----- |
-| 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham | 55m |
+| 05/08/2024 | 09:00  | Purley to Felpham (nr Bognor Regis) | Hotel in Felpham | 55m/2900ft |
 | 06/08/2024 | 09:00  | Felpham to Bournemouth | AirBnB in Bournemouth town centre | 92m |
 | 07/08/2024 | 09:00  | Bournemouth to Bridport | AirBnB in Bridport | 65m | Detour via West Bay (cliffs) |
 | 08/08/2024 | 09:00  | Bridport to Sidmouth | Hotel in Sidmouth | 33m | Stop off in Axminster and Seaton |
