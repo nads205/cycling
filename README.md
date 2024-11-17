@@ -1,30 +1,30 @@
-# Tunisia - Cycling Tour - Travel Checklist  
+# Tunisia - Cycling Tour - Travel Checklist 🚴‍♂️🌍
 
 ## Before You Go
-- [ ] **Speak to local:** Advice on arrival + flight number etc.
-- [ ] **Passport:** Check the expiration date and ensure you have all necessary visas.
-- [ ] **Driver licence:** Useful for ID.
-- [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary.
-- [ ] **Accommodation:** Confirm your reservations and any necessary booking details.
-- [ ] **Travel Insurance:** Check policy covers bike theft and theft of luggage.
-- [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination. **Travel credit card**
-- [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen
-- [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None
-- [ ] **Travel Adapters:** Check the plug types at your destination and pack the appropriate adapters. Tunisia uses a 2 pin EU style travel charger.
-- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. 
-- [ ] **Emergency Contacts:** Write down important phone numbers and addresses, including embassy contacts. Consider an emergency information sheet to take with you on the bike
+- [ ] **Speak to local:** Advice on arrival + flight number etc. 🗣️✈️
+- [ ] **Passport:** Check the expiration date and ensure you have all necessary visas. 🛂📅
+- [ ] **Driver licence:** Useful for ID. 🆔🚗
+- [ ] **Tickets and Itinerary:** Confirm your flight, train, or bus tickets. Have a digital and physical copy of your itinerary. 🎟️🗺️
+- [ ] **Accommodation:** Confirm your reservations and any necessary booking details. 🏨🔑
+- [ ] **Travel Insurance:** Check policy covers bike theft and theft of luggage. 📋🔐
+- [ ] **Currency:** Exchange currency or ensure your credit/debit cards work in your destination. **Travel credit card** 💳💰
+- [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen 💊📜
+- [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None 💉🌐
+- [ ] **Travel Adapters:** Check the plug types at your destination and pack the appropriate adapters. Tunisia uses a 2 pin EU style travel charger. 🔌🔋
+- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. 📱🔧
+- [ ] **Emergency Contacts:** Write down important phone numbers and addresses, including embassy contacts. Consider an emergency information sheet to take with you on the bike ☎️📝
 
 ## Packing Essentials
 
-- [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs.
-- [ ] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider dispoable slippers like the ones you get in hotels?
-- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. EarLip balm. Chafing cream. Toothpick.
-- [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location.
-- [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle.
-- [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime.
-- [ ] **Snacks:** Pack some snacks for the journey, especially if you have dietary restrictions.
-- [ ] **Travel Guides/Maps:** Bring guidebooks or download maps and travel apps for your destination.
-- [ ] **Headphones:** noise cancelling, avoid bulky ones.
+- [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs. 👕🌡️
+- [ ] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider disposable slippers like the ones you get in hotels? 👟👡
+- [ ] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. EarLip balm. Chafing cream. Toothpick. 🧴🛁
+- [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location. 📂🔒
+- [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle. 🛏️😴
+- [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime. 📚📱
+- [ ] **Snacks:** Pack some snacks for the journey, especially if you have dietary restrictions. 🍎🍫
+- [ ] **Travel Guides/Maps:** Bring guidebooks or download maps and travel apps for your destination. 🗺️📲
+- [ ] **Headphones:** Noise cancelling, avoid bulky ones. 🎧🚫
 
 ## Cycling specifics
 - [ ] **Bike box:** Roll of bubble wrap, zip ties and cling film.
