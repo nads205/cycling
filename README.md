@@ -2,13 +2,10 @@
 
 ## Before You Go
 - [ ] **Speak to local:** Advice on arrival + flight number etc. 🗣️✈️
-- [ ] **Accommodation:** Confirm your reservations and any necessary booking details. 🏨🔑
-
 ## Packing Essentials
-
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs. 👕🌡️
 - [X] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider disposable slippers like the ones you get in hotels? 👟👡
-- [X] **Toiletries:** Pack travel-sized toiletries and personal hygiene products. All liquids must be less than 100 ml. Put them all in a clear plastic bag in hand luggage before going to the airport. Small toothpaste. Shower gel + shampoo. Deodorant. Hand cream. EarLip balm. --Chafing cream--. Toothpick. 🧴🛁
+- [X] **Toiletries:** Small toothpaste. Soap. Deodorant. Hand cream. Lip balm. --Chafing cream--. Toothpick. 🧴🛁
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location. 📂🔒
 - [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle. 🛏️😴
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime. 📚📱
@@ -17,8 +14,6 @@
 - [ ] **Headphones:** Noise cancelling, avoid bulky ones. 🎧🚫
 
 ## Cycling specifics
-
-- [ ] **Water bottles:** One for the bike one for travel
 - [ ] **Toolkit:** patches, tubes
 - [ ] **Clothing:**Bib shorts, jersey (x2)
 - [ ] Revelate Bag
@@ -28,7 +23,6 @@
 Remember to check wind direction and intensity
 
 ### Malaga
-
 ![image](https://github.com/user-attachments/assets/eeffa943-d29d-4268-b1e6-5f33f004d98f)
 
 ## Routes/Maps 🗺️ 🌍
