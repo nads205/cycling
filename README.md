@@ -11,7 +11,7 @@
 - [ ] **Medications:** Pack any necessary medications along with prescriptions. Paracetamol + Ibrprofen 💊📜
 - [ ] **Health Precautions:** Research and take any necessary vaccinations or medications for your destination. None 💉🌐
 - [ ] **Travel Adapters:** Check the plug types at your destination and pack the appropriate adapters. Tunisia uses a 2 pin EU style travel charger. 🔌🔋
-- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. 📱🔧
+- [ ] **Phone and Electronics:** Portable chargers, sim removal tool. For longer trips garmin watch cable. 📱🔧
 - [ ] **Emergency Contacts:** Write down important phone numbers and addresses, including embassy contacts. Consider an emergency information sheet to take with you on the bike ☎️📝
 
 ## Packing Essentials
