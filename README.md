@@ -38,12 +38,12 @@ Remember to check wind direction and intensity
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 19/11/2024 Tu | 16:00    | Arrive Malaga, stay in                                                                                               |      | 
-| 20/11/2024 W | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) or AirBnB  | [Strava](https://www.strava.com/activities/11270943887)
-| 21/11/2024 Th | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.    | Youth Club De Zargouan or [Dar Zaghouan](https://www.instagram.com/darzaghouan_officiel/)  | [Strava](https://www.strava.com/activities/11277852166)
-| 22/11/2024 F | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel Ibn Zeidoun Testour               | [Strava](https://www.strava.com/activities/11286442142)
-| 23/11/2024 S | 10:30 AM | *Day 4* - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.   | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) | [Strava](https://www.strava.com/activities/11291192787)
-| 24/11/2024 Su | 09:00 AM | *Day 5* -  Pack the bike up and enjoy the day in Tunis, depart for airport.                                                                   |                                         |
+| 19/11/2024 Tu | 16:00    | Arrive Malaga, stay in                                                                                                          | [Lights Hostel](https://www.thelights.es) | 
+| 20/11/2024 W | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | Hotel  | [Strava](https://www.strava.com/activities/11270943887)
+| 21/11/2024 Th | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.                  | Hotel  | [Strava](https://www.strava.com/activities/11277852166)
+| 22/11/2024 F | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel  | [Strava](https://www.strava.com/activities/11286442142)
+| 23/11/2024 S | 10:30 AM | *Day 4* - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.   | Hotel  | [Strava](https://www.strava.com/activities/11291192787)
+| 24/11/2024 Su | 09:00 AM | *Day 5* -                                                                                                                      | Hotel      |
 
 ## Costings
 
