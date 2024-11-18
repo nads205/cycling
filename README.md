@@ -18,6 +18,7 @@
 - [ ] **Clothing:**Bib shorts, jersey (x2)
 - [ ] Revelate Bag
 - [ ] HR Monitor?
+- [ ] Spare shorts
 
 ## Weather
 Remember to check wind direction and intensity
