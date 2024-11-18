@@ -5,7 +5,7 @@
 ## Packing Essentials
 - [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs. 👕🌡️
 - [X] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider disposable slippers like the ones you get in hotels? 👟👡
-- [X] **Toiletries:** Small toothpaste. Soap. Deodorant. Hand cream. Lip balm. --Chafing cream--. Toothpick. 🧴🛁
+- [X] **Toiletries:** Deodorant. Hand cream. 🧴🛁
 - [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location. 📂🔒
 - [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle. 🛏️😴
 - [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime. 📚📱
