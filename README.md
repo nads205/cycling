@@ -22,6 +22,7 @@
 - [ ] **Toolkit:** patches, tubes
 - [ ] **Clothing:**Bib shorts, jersey (x2)
 - [ ] Revelate Bag
+- [ ] HR Monitor?
 
 ## Weather
 Remember to check wind direction and intensity
