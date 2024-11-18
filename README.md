@@ -19,6 +19,7 @@
 - [ ] Revelate Bag
 - [ ] HR Monitor?
 - [ ] Spare shorts
+- [ ] Fan?
 
 ## Weather
 Remember to check wind direction and intensity
