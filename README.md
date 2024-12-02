@@ -17,12 +17,12 @@
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 19/11/2024 Tu | 16:00    | Arrive Malaga, stay in                                                                                                          | [Lights Hostel](https://www.thelights.es) | 
-| 20/11/2024 W | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | Hotel  | [Strava](https://www.strava.com/activities/11270943887)
-| 21/11/2024 Th | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.                  | Hotel  | [Strava](https://www.strava.com/activities/11277852166)
-| 22/11/2024 F | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel  | [Strava](https://www.strava.com/activities/11286442142)
-| 23/11/2024 S | 10:30 AM | *Day 4* - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.   | Hotel  | [Strava](https://www.strava.com/activities/11291192787)
-| 24/11/2024 Su | 09:00 AM | *Day 5* -                                                                                                                      | Hotel      |
+| 19/11/2024 Tu | 16:00    | *Day 1* Arrive Malaga airport assemble bike and cycle to city, stay in                                                                     |  | 
+| 20/11/2024 W | 9:00 AM  | *Day 2* - Cycle from Malaga to MArbella                       | Hotel  | [Strava](https://www.strava.com/activities/11270943887)
+| 21/11/2024 Th | 10:00 AM | *Day 3* - Depart Malaga for Gibraltar                  | Hotel  | [Strava](https://www.strava.com/activities/11277852166)
+| 22/11/2024 F | 11:00 AM | *Day 4* - Chill in Gibraltar for the day cycle around the island, Jummah                                                             | Hotel  | [Strava](https://www.strava.com/activities/11286442142)
+| 23/11/2024 S | 10:30 AM | *Day 5* - Depart Gibraltar, cycle to Algeceras abd then get ferry to Tangier Med, cycle from Tanger Med to Tanger    | Hotel  | [Strava](https://www.strava.com/activities/11291192787)
+| 24/11/2024 Su | 09:00 AM | *Day 6* -                                                                                                                      | Hotel      |
 
 ## Costings
 
