@@ -1,28 +1,7 @@
 # Spain - Cycling Tour - Travel Checklist 🚴‍♂️🌍
 
-## Before You Go
-- [ ] **Speak to local:** Advice on arrival + flight number etc. 🗣️✈️
-## Packing Essentials
-- [ ] **Clothing:** Pack weather-appropriate clothing and consider local customs. 👕🌡️
-- [X] **Footwear:** If you take bike shoes you'll need secondary footwear i.e. flip flops. Consider disposable slippers like the ones you get in hotels? 👟👡
-- [X] **Toiletries:** Deodorant. Hand cream. 🧴🛁
-- [ ] **Travel Documents:** Keep your passport, tickets, itinerary, and other important documents in a secure, easily accessible location. 📂🔒
-- [ ] **Travel Accessories:** Don't forget items like a travel pillow, eye mask, **earplugs**, and a reusable water bottle. 🛏️😴
-- [ ] **Entertainment:** Bring books, magazines, or electronic devices for entertainment during travel downtime. 📚📱
-- [ ] **Snacks:** Pack some snacks for the journey, especially if you have dietary restrictions. 🍎🍫
-- [ ] **Travel Guides/Maps:** Bring guidebooks or download maps and travel apps for your destination. 🗺️📲
-- [ ] **Headphones:** Noise cancelling, avoid bulky ones. 🎧🚫
-
-## Cycling specifics
-- [ ] **Toolkit:** patches, tubes
-- [ ] **Clothing:**Bib shorts, jersey (x2)
-- [ ] Revelate Bag
-- [ ] HR Monitor?
-- [ ] Spare shorts
-- [ ] Fan?
-
 ## Weather
-Remember to check wind direction and intensity
+
 
 ### Malaga
 ![image](https://github.com/user-attachments/assets/eeffa943-d29d-4268-b1e6-5f33f004d98f)
