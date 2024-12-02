@@ -6,10 +6,11 @@
 ### Malaga
 ![image](https://github.com/user-attachments/assets/eeffa943-d29d-4268-b1e6-5f33f004d98f)
 
+Sanlucar was cold one morning
+
 ## Routes/Maps 🗺️ 🌍
 
 ![image](https://github.com/user-attachments/assets/0afcbc01-b8c0-44b1-940f-888709b9b5e6)
-
 
 ## Itinerary
 
@@ -34,6 +35,13 @@ Flights from London are £100 each way.
 ### Accomodation
 Accomodation is 50-100 per night. 
 
+### Links
+
+- https://www.komoot.com/guide/41862/cycling-in-malaga
+- https://www.eatsleepcycle.com/guide-to-road-cycling-in-malaga/
+- https://escapadacycling.com/en/cycling-routes/malaga-andalucia-spain
+- https://www.bikemap.net/en/l/2514256/
+- https://web.bikemap.net/r/10052279
 
 
 
