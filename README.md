@@ -10,6 +10,9 @@
 
 ![image](https://github.com/user-attachments/assets/f8c905e7-2a02-4156-a98a-5ea0b158310d)
 
+![image](https://github.com/user-attachments/assets/0afcbc01-b8c0-44b1-940f-888709b9b5e6)
+
+
 ## Itinerary
 
 | Day | Time | Activity | Where to stay | Route |
