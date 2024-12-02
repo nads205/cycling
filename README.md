@@ -34,6 +34,10 @@
 - [ ] **Clothing:**Bib shorts, jersey (x2)
 - [ ] **Pedals:**
 - [ ] **Garmin:**
+- [ ] Spare shorts
+- [ ] HR Monitor?
+- [ ] Revelate bag
+- [ ] Portable Fan?
 
 ## On the Go
 
