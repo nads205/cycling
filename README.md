@@ -39,6 +39,16 @@
 - [ ] Revelate bag
 - [ ] Portable Fan?
 
+## Checks before riding
+
+- [ ] Tyre pressures
+- [ ] Headset tight
+- [ ] Brake check
+- [ ] Wheels on securely
+- [ ] Saddle height.
+
+
+
 ## On the Go
 
 - [ ] **Stay Hydrated:** Drink plenty of water, especially during long flights or car rides.
