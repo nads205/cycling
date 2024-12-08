@@ -10,7 +10,16 @@ Sanlucar was cold one morning
 
 ## Routes/Maps 🗺️ 🌍
 
+Option 1 - Down the coast
+
 ![image](https://github.com/user-attachments/assets/0afcbc01-b8c0-44b1-940f-888709b9b5e6)
+
+Option 2 - Andalucia's Golden Triangle
+
+![image](https://github.com/user-attachments/assets/c88f0297-8f13-41f8-a99c-a8185b1ca806)
+
+https://www.andalucia.com/province/golden-triangle.htm
+
 
 ## Itinerary
 
