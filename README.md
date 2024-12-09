@@ -20,10 +20,10 @@ https://www.andalucia.com/province/golden-triangle.htm
 
 ## Itinerary
 
-| Day | Time | Activity | Where to stay | Route |
-| --- | ---- | -------- | ------------- | ----- |
-| 19/11/2024 Tu | 16:00    | *Day 1* Arrive Malaga airport assemble bike and cycle to city, stay in                                                                     | Hotel | [Strava](https://www.strava.com/activities/12938152470) 7 miles / 11km
-| 20/11/2024 W | 9:00 AM  | *Day 2* - Cycle from Malaga to Marbella                                                                                                     | Hotel  | [Strava](https://www.strava.com/activities/12946678710)
+| Day | Time | Activity | Where to stay | Route | Distance |
+| --- | ---- | -------- | ------------- | ----- | -------- |
+| 19/11/2024 Tu | 16:00    | *Day 1* Arrive Malaga airport assemble bike and cycle to city, stay in                                                                     | Hotel | [Strava](https://www.strava.com/activities/12938152470) | 7 mi / 11 km
+| 20/11/2024 W | 9:00 AM  | *Day 2* - Cycle from Malaga to Marbella                                                                                                     | Hotel  | [Strava](https://www.strava.com/activities/12946678710) | 42.42 mi / 68.27 km
 | 21/11/2024 Th | 10:00 AM | *Day 3* - Depart Malaga for Gibraltar                                                                                                      | Hotel  | [Strava](https://www.strava.com/activities/12952700568)
 | 22/11/2024 F | 11:00 AM | *Day 4* - Chill in Gibraltar for the day cycle around the island, Jummah                                                                    | Hotel  | [Strava](https://www.strava.com/activities/12959515869)
 | 23/11/2024 S | 10:30 AM | *Day 5* - Depart Gibraltar, cycle to Algeceras abd then get ferry to Tangier Med, cycle from Tanger Med to Tanger                           | Hotel  | [Strava](https://www.strava.com/activities/12967737434) [Strava](https://www.strava.com/activities/12967429812)
