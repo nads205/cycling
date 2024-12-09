@@ -33,6 +33,8 @@ https://www.andalucia.com/province/golden-triangle.htm
 | 27/11/2024 M | 09:00 AM | *Day 9* - Leave SanLucar, head to Seville!                                                                                                  | Hotel      | [Strava](https://www.strava.com/activities/12996349862) | 71.10 mi 114.42 km
 | 28/11/2024 M | 09:00 AM | *Day 10* - Head home!                                                                                                                       | Hotel      | 
 
+269.19 mi / 433.14 km / 
+
 ## Costings
 
 ### Flights 
