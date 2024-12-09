@@ -22,7 +22,7 @@ https://www.andalucia.com/province/golden-triangle.htm
 
 | Day | Time | Activity | Where to stay | Route |
 | --- | ---- | -------- | ------------- | ----- |
-| 19/11/2024 Tu | 16:00    | *Day 1* Arrive Malaga airport assemble bike and cycle to city, stay in                                                                     | Hotel | [Strava](https://www.strava.com/activities/12938152470)
+| 19/11/2024 Tu | 16:00    | *Day 1* Arrive Malaga airport assemble bike and cycle to city, stay in                                                                     | Hotel | [Strava](https://www.strava.com/activities/12938152470) 7 miles / 11km
 | 20/11/2024 W | 9:00 AM  | *Day 2* - Cycle from Malaga to Marbella                                                                                                     | Hotel  | [Strava](https://www.strava.com/activities/12946678710)
 | 21/11/2024 Th | 10:00 AM | *Day 3* - Depart Malaga for Gibraltar                                                                                                      | Hotel  | [Strava](https://www.strava.com/activities/12952700568)
 | 22/11/2024 F | 11:00 AM | *Day 4* - Chill in Gibraltar for the day cycle around the island, Jummah                                                                    | Hotel  | [Strava](https://www.strava.com/activities/12959515869)
