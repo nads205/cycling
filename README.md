@@ -85,18 +85,22 @@ Remember to check wind direction and intensity
 ![image](https://github.com/nads205/tunisia/assets/13393938/ac64b20b-713e-4878-ada7-9d7286022a51)
 ### Option 3 - Loop via Zagouan (suggested by Besbes)
 ![image](https://github.com/nads205/tunisia/assets/13393938/7f46da51-7f08-4acf-b63c-f37022b39251)
-### Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
 
 ## Itinerary
 
-| Day | Time | Activity | Where to stay | Route |
-| --- | ---- | -------- | ------------- | ----- |
-| 25/04/2024 | 22:30    | Arrive Tunis, stay in Nomads Hostel                                                                                              | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/)      | 
-| 26/04/2024 | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) or AirBnB  | [Strava](https://www.strava.com/activities/11270943887)
-| 27/04/2024 | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.    | Youth Club De Zargouan or [Dar Zaghouan](https://www.instagram.com/darzaghouan_officiel/)  | [Strava](https://www.strava.com/activities/11277852166)
-| 28/04/2024 | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel Ibn Zeidoun Testour               | [Strava](https://www.strava.com/activities/11286442142)
+| Day | Time | Activity | Where to stay | Route | Distance |
+| --- | ---- | -------- | ------------- | ----- | -------- | 
+| 25/04/2024 | 22:30    | Arrive Tunis, stay in Nomads Hostel                                                                                              | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/)      | 40 mi |
+| 26/04/2024 | 9:00 AM  | *Day 1* - Assemble bike and go for inaugaral bike ride with Nomadic Bike's Yassine and Iheb 40 mi (1000ft)                       | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) or AirBnB  | [Strava](https://www.strava.com/activities/11270943887) | 50 mi 2500ft
+| 27/04/2024 | 10:00 AM | *Day 2* - Depart Tunis for Zaghouan, stop off at Uthina for photos. Try to visit the water temple in Zaghouan.    | Youth Club De Zargouan or [Dar Zaghouan](https://www.instagram.com/darzaghouan_officiel/)  | [Strava](https://www.strava.com/activities/11277852166) | 60 mi 22000ft
+| 28/04/2024 | 11:00 AM | *Day 3* - Depart Zaghouan for Testour via Thuburbo Majus for photos                                                              | Hotel Ibn Zeidoun Testour               | [Strava](https://www.strava.com/activities/11286442142) | 40 mi
 | 29/04/2024 | 10:30 AM | *Day 4* - Depart Tesour for Qa Afur (GarAfur). Stop and climb upto Dougga. Get the train back to Tunis. Enjoy dinner in Tunis.   | [Nomad's Hostel](https://www.instagram.com/nomadshosteltunisia/) | [Strava](https://www.strava.com/activities/11291192787)
-| 30/04/2024 | 09:00 AM | *Day 5* -  Pack the bike up and enjoy the day in Tunis, depart for airport.                                                                   |                                         |
+| 30/04/2024 | 09:00 AM | *Day 5* -  Pack the bike up and enjoy the day in Tunis, depart for airport.        
+
+
+### Option 4 - Train down to Gabes then DJerba Island (swimming etc). Cycle around the Island.
+
+                                                           |                                         |
 
 ## Costings
 
