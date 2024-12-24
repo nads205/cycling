@@ -1,5 +1,39 @@
 # Spain - Cycling Tour - Travel Checklist 🚴‍♂️🌍
 
+## best things about spain!
+10 best things about Spain
+
+- People generally friendly
+- coffee is just 1 euro 
+
+## Diary
+
+As you leave to refate there are there is a fast descent and then you go along the beach and then you go through a small nature Road is quite calm and it's a 17 mile so 70 kilometers per hour Road 
+
+
+What strikes you is the difference between the roads in Morocco which are way better pain than the ones in Spain despite the fact that ones in Spain are pretty nice the roots towards caddy so far seems to be quite flat 
+
+In the big ring so far tailwind 
+
+Rocco you will need some sort of translation but in Spain most people will speak English 
+
+So on Thursday landed in Malaga airport which is pretty Nice airport to London to quite spacious inside very fast immigration process like cue frontier and then immediately cycled into the city centre which again was easy there's a cycle route there's a bit gravely or you can just go along the road straight gentle way of getting to the city learning the New Road regulations that you familiar with etc you like new line 
+In terms of packing setup definitely use the middle thing for the tools that works well so next time don't hesitate with that on 
+
+In Rocco's worth having connection with the local bike shop you can help you get settled in yeah really nice
+
+
+
+One of the studio one machine one of these studios doesn't have washing machines but it overlooks the street and everything is close by 
+
+Let me write this all into a blog 
+
+
+
+Spain when I'm back in Spai
+
+Chikalitas is a big town for stopping off
+
 ## Weather
 
 ![image](https://github.com/user-attachments/assets/eeffa943-d29d-4268-b1e6-5f33f004d98f)
